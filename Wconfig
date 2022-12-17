@@ -1,7 +1,7 @@
 {
   "rows": [
     {
-      "Version_code": 1.2,
+      "Version_code": 1.0,
       "Update_Title": "New",
       "Update_Message": "latest",
       "Update_Button_text": "update",
@@ -14,7 +14,7 @@
       "Raimg5": "https://cdn.pixabay.com/photo/2016/10/22/17/46/mountains-1761292__340.jpg",
       "Piimg6": "https://cdn.pixabay.com/photo/2015/04/19/08/32/marguerite-729510__340.jpg",
       "MEimg7": "https://cdn.pixabay.com/photo/2016/05/02/10/13/ship-1366926__340.jpg",
-      "idd": 0,
+      "idd": "00",
       "title": "aaaaa",
       "message": "ttttttttt",
       "img_url": "https://cdn.pixabay.com/photo/2016/05/02/10/13/ship-1366926__340.jpg",
